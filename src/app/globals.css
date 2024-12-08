@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.product-card:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000073;
+    opacity: 0;
+}
+.product-card:hover:before {
+opacity: 1;
+}
+.hover-card{
+    opacity: 0;
+}
+.product-card:hover .hover-card {
+    opacity: 1;
+    }
