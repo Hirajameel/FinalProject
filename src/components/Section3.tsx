@@ -4,14 +4,14 @@ import React from 'react'
 function Section3() {
   return (
     <div className='bg-[#FCF8F3]'>
-    <div className='flex pl-[10vw]  ml-auto py-7'>
-        <div className='w-[40%] flex  flex-col justify-center'>
+    <div className='flex pl-[10vw]  ml-auto py-7 sec-3-main'>
+        <div className='w-[40%] flex  flex-col justify-center sec-3-card'>
             <h2 className='text-[40px] leading-none mb-4 font-poppins font-bold mt-7 '>50+ Beautiful rooms 
             <br /> inspiration</h2>
             <p>Our designer already made a lot of beautiful <br /> prototipe of rooms that inspire you</p>
             <button className="mt-3 w-[222px] py-3 font-poppins font-bold bg-[#B88E2F] text-[#FFFFFF]">Explore Now</button>
         </div>
-        <div className='flex gap-3'>
+        <div className='flex gap-3 sec-3-img'>
             <div>
                 <Image src="/slide1.png" width={200} height={200} alt="" className='w-[400px] h-full' />
             </div>

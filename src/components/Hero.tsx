@@ -3,7 +3,7 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className='h-[713px] w-full relative' >
+    <div className='h-[713px] w-full relative banner' >
     <Image src="/herohero.jpg" width={1440} height={100} className='absolute w-full h-full  ' alt="" />    
   
    

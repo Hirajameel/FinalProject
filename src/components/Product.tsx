@@ -5,7 +5,7 @@ import { MdOutlineCompareArrows } from 'react-icons/md'
 
 function Product() {
   return (
-    <div className='w-[1230px] mx-auto my-0'>
+    <div className='w-[1230px] mx-auto my-0 product-main'>
         <h2 className='text-[40px] font-poppins font-bold my-7 text-center'>Our Products</h2>
     <div className='flex justify-between gap-5 mb-4'>
     <div className='w-[25%] bg-[#F4F5F7] product-card relative'>

@@ -9,7 +9,7 @@ import { AiOutlineShoppingCart } from "react-icons/ai";
 const Header = () => {
   return (
     <div className="w-full px-20 h-[100px] bg-[#FFFFFF] text-[#000000] ">
-      <div className="  pl-[54px] flex justify-between items-center">
+      <div className="  pl-[54px] flex justify-between items-center header">
         <div className="">
           <h1 className=" text-[34px] font-bold text-sm text-[#000000] flex items-center">
            <Image src="/logo.png" alt="" width={200} height={200} className="w-20"/> Furniro
