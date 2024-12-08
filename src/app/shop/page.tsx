@@ -12,7 +12,7 @@ function shop() {
 
             <h2 className='text-[40px] font-poppins font-bold text-center'>Shop</h2>
             <div className='flex '>
-            <p className='font-poppins font-semibold'>Home ></p>
+            <p className='font-poppins font-semibold'>Home </p>
             <span>Shop</span>
             </div>
         </div>
