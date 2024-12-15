@@ -75,6 +75,7 @@ const page = () => {
             </div>
           </div>
         </div>
+        
         <div className="w-full px-20">
           <div className="mb-4">
             <label htmlFor="" className="mb-3">

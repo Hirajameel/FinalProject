@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import React from "react";
 import { CiHeart, CiShare2 } from "react-icons/ci";
 import { MdOutlineCompareArrows } from "react-icons/md";
@@ -10,7 +11,7 @@ function Product() {
         Our Products
       </h2>
       <div className="flex justify-between gap-5 mb-4">
-        <div className="w-[25%] bg-[#F4F5F7] product-card relative">
+        <Link href="/product" className="w-[25%] bg-[#F4F5F7] product-card relative">
           <Image
             src="/pro1.png"
             width={200}
@@ -48,8 +49,8 @@ function Product() {
               </p>
             </div>
           </div>
-        </div>
-        <div className="w-[25%] bg-[#F4F5F7] product-card relative">
+        </Link>
+        <Link href="/product" className="w-[25%] bg-[#F4F5F7] product-card relative">
           <Image
             src="/pro6.png"
             width={200}
@@ -87,8 +88,11 @@ function Product() {
               </p>
             </div>
           </div>
-        </div>
-        <div className="w-[25%] bg-[#F4F5F7] product-card relative">
+        </Link>
+        <Link
+          href="/product"
+          className="w-[25%] bg-[#F4F5F7] product-card relative"
+        >
           <Image
             src="/pro2.png"
             width={200}
@@ -126,8 +130,11 @@ function Product() {
               </p>
             </div>
           </div>
-        </div>
-        <div className="w-[25%] bg-[#F4F5F7] product-card relative">
+        </Link>
+        <Link
+          href="/product"
+          className="w-[25%] bg-[#F4F5F7] product-card relative"
+        >
           <Image
             src="/pro3.png"
             width={200}
@@ -165,7 +172,7 @@ function Product() {
               </p>
             </div>
           </div>
-        </div>
+        </Link>
       </div>
       <div className="flex justify-between gap-5">
         <div className="w-[25%] bg-[#F4F5F7] product-card relative">

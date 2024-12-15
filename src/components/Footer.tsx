@@ -45,7 +45,7 @@ const Footer = () => {
       </div>
       <div className='font-poppins font-[400px] text-[16px] border-gray-300 border-t-2 bottom-footer'>
     
-        <p className='my-5'>2023 furino. All rights reverved</p>
+        <p className='my-5'>2023 furino. All rights reserved</p>
       </div>
     </footer>
   )
