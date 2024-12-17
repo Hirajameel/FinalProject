@@ -134,7 +134,7 @@ function shop() {
               className="w-full"
             />
             <div className="px-4 py-3">
-              <h3 className="font-poppins text-[24px]">Syltherine</h3>
+              <h3 className="font-poppins text-[24px]">Leviosa</h3>
               <p className="font-poppins text-[16px] text-[#898989]">
                 Stylish cafe chair
               </p>
@@ -173,7 +173,7 @@ function shop() {
               className="w-full"
             />
             <div className="px-4 py-3">
-              <h3 className="font-poppins text-[24px]">Syltherine</h3>
+              <h3 className="font-poppins text-[24px]">Lolito</h3>
               <p className="font-poppins text-[16px] text-[#898989]">
                 Stylish cafe chair
               </p>
@@ -212,7 +212,7 @@ function shop() {
               className="w-full"
             />
             <div className="px-4 py-3">
-              <h3 className="font-poppins text-[24px]">Syltherine</h3>
+              <h3 className="font-poppins text-[24px]">Respira</h3>
               <p className="font-poppins text-[16px] text-[#898989]">
                 Stylish cafe chair
               </p>

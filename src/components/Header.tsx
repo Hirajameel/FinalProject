@@ -8,7 +8,7 @@ import { AiOutlineShoppingCart } from "react-icons/ai";
 
 const Header = () => {
   return (
-    <div className="w-full px-20 h-[100px] bg-[#FFFFFF] text-[#000000] ">
+    <div className="w-full px-20 h-[100px] bg-[#FFFFFF] text-[#000000] font-bold ">
       <div className="  pl-[54px] flex justify-between items-center header">
         <div className="">
           <h1 className=" text-[34px] font-bold text-sm text-[#000000] flex items-center ">
@@ -43,7 +43,7 @@ const Header = () => {
           <CiSearch className="w-[28px] h-[28px] mt-[4.67px] ml-[2.33px]" />
           <GoHeart className="w-[28px] h-[28px] mt-[4.67px] ml-[2.33px]" />
 
-          <AiOutlineShoppingCart className="w-[28px] h-[28px] mt-[4.67px] ml-[2.33px]" />
+        <Link href="/cart">  <AiOutlineShoppingCart className="w-[28px] h-[28px] mt-[4.67px] ml-[2.33px]" /></Link>
         </div>
       </div>
     </div>

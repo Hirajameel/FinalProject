@@ -59,7 +59,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Levlosa</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -101,7 +101,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Lolito</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -143,7 +143,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Respira</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -184,7 +184,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Grifo</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -223,7 +223,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Muggo</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -262,7 +262,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Pingky</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
@@ -301,7 +301,7 @@ function Product() {
             className="w-full"
           />
           <div className="px-4 py-3">
-            <h3 className="font-poppins text-[24px]">Syltherine</h3>
+            <h3 className="font-poppins text-[24px]">Potty</h3>
             <p className="font-poppins text-[16px] text-[#898989]">
               Stylish cafe chair
             </p>
