@@ -142,9 +142,9 @@ function checkout() {
 
 
 <div>
-          <div className="mt-10 pl-10 flex gap-20 font-poppins">
+          <div className="mt-10 pl-0 flex gap-20 font-poppins lg:pl-10 md:pl-10">
             <div>
-              <div className="mt-10 pl-10 block lg:flex md:flex gap-20">
+              <div className="mt-10 pl-0 lg:pl-10 md:pl-10 flex lg:flex md:flex gap-20">
                 {/* Left Column */}
                 <div className="mt-10 pl-5 space-y-2 ">
                   <h3 className="mb-2 text-[24px] font-semibold">Product</h3>
@@ -168,7 +168,7 @@ function checkout() {
               {/* Section Below */}
             </div>
           </div>
-          <div className="mt-10 pl-10">
+          <div className="mt-10 lg:pl-10 md:pl-10">
             <p className="text-[#000000] font-semibold">Direct Bank Transfer</p>
             <br />
             <p className="text-[#9F9F9F] font-[300px]">
