@@ -35,7 +35,7 @@ function Gallery() {
             <Image src="/gall9.png" width={200} height={200} alt="" className='w-[250px] h-[300px]'/>
             </div>
          </div>
-    </div><hr/>
+    </div><br/><hr/>
 </div>
   
   )
