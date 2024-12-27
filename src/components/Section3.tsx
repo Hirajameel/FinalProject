@@ -1,5 +1,8 @@
 import Image from 'next/image'
 import React from 'react'
+import { FaDotCircle } from "react-icons/fa";
+import { GoDotFill } from "react-icons/go";
+
 
 function Section3() {
   return (
@@ -18,10 +21,15 @@ function Section3() {
             <div>
                 <div className='flex'>
             <Image src="/slide2.png" width={200} height={200} alt="" className='w-[370px] h-full' />
-            </div>           
-             <Image src="/indicator.svg" width={200} height={200} alt="" className='w-28 mt-5' />
+            </div> 
+            <div className='flex gap-3 mt-5'>         
+            <FaDotCircle className='text-[#B88E2F]'/>
+            <GoDotFill className='text-[#D8D8D8]'/>
+            <GoDotFill className='text-[#D8D8D8]'/>
+            <GoDotFill className='text-[#D8D8D8]'/>
 
-
+            </div> 
+ 
             </div>
         </div>
     </div>
